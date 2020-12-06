@@ -15,4 +15,4 @@ The town itself also has a bit of history behind it involving the old coal mine.
 If you want to know more about that you can go [here.](https://en.wikipedia.org/wiki/Moweaqua,_Illinois)<br>
 
 That pretty well sums up the interesting places I've lived.
-[Click here](ReadMe.md) to return to the home page.
+[Click here](README.md) to return to the home page.
