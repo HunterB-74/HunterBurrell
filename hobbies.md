@@ -8,4 +8,4 @@ Some of my favorite games include:<br>
 +Fallout: New Vegas<br>
 +Rainbow 6: Siege<br>
 
-
+[Click here](README.md) to return to the home page.
